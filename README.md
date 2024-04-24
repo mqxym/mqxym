@@ -9,4 +9,4 @@
 - 👯 I’m looking to collaborate on anything im interested in
 - 🤔 I’m looking for help with analyzing my security related repos for bugs or security flaws
 - 💬 Ask me about ideas on what to build
-- 📫 How to reach me: via (X/Twitter or reddit) direct message
+- 📫 How to reach me: via (X/Twitter or Reddit) direct message

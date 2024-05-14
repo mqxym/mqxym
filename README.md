@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a web tool to track Clash of Clans upgrade times for multiple accounts
 - 🌱 I’m currently learning ...
-  - ... frontend developement(Angular 19 atm)
+  - ... frontend developement(Angular 17 atm)
   - ... NodeJS with Express
   - ... creating system tools with Python 3 like Ansible plugins
   - ... CI/CD with Docker / K8s

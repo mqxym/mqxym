@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on a different private and public websites and tools.
 - 🌱 I’m currently learning ...
-  - ... frontend with TypeScript (Angular 17)
-  - ... backend with NodeJS (Express)
-  - ... creating system tools with Python like custom Ansible plugins and local runners
-  - ... CI/CD with Docker / K8s
+  - ... frontend (TypeScript, React, Tailwind CSS)
+  - ... backend (Express, NextJS)
+  - ... creating system tools with Python 3 like custom Ansible plugins and local runners
+  - ... CI/CD with GitHub Actions and Docker
 - 👯 I’m looking to collaborate on anything im interested in
 - 🤔 I’m looking for help with analyzing my security related repos for bugs or security flaws
 - 📫 How to reach me: via (X/Twitter or Reddit) direct message
